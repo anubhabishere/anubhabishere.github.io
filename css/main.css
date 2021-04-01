@@ -590,7 +590,7 @@ strong {
 
 .intro__hello {
     font-weight: 300;
-    text-shadow: 1px 1px #fff
+    text-shadow: 0.6px 0.6px #fff
 }
 
 .intro__hello .wave-hand {
