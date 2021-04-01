@@ -589,7 +589,8 @@ strong {
 }
 
 .intro__hello {
-    font-weight: 300
+    font-weight: 300;
+    text-shadow: 0.5px 0.5px
 }
 
 .intro__hello .wave-hand {
