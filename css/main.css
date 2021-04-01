@@ -99,7 +99,6 @@ body.night,
 html.night {
     background-color: #171c28;
     color: #afafbf;
-    text-shadow: 1px 1px #fff
 }
 
 body.night ::-moz-selection,
@@ -141,7 +140,6 @@ html.night .status,
 html.night a,
 html.night strong {
     color: #e7e7e7;
-    text-shadow: 1px 1px #fff
 }
 
 body.night .section__content .underline-link:after,
