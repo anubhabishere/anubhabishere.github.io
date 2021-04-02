@@ -139,12 +139,12 @@ html.night .skills .skillz__category__label,
 html.night .status,
 html.night a,
 html.night strong {
-    color: #e7e7e7;
+    color: #ffffff;
 }
 
 body.night .section__content .underline-link:after,
 html.night .section__content .underline-link:after {
-    background: #e7e7e7
+    background: #ffffff
 }
 
 a {
@@ -590,7 +590,6 @@ strong {
 
 .intro__hello {
     font-weight: 300;
-    color: #fff;
     text-shadow: 0.9px 0.9px #007bff
 }
 
@@ -677,13 +676,11 @@ strong {
 .intro__tagline {
     font-weight: 300;
     max-width: 700px;
-    color: #fff;
     text-shadow: 0.9px 0.9px #007bff
 }
 
 .intro__tagline .name {
     font-weight: 700;
-    color: #fff;
     text-shadow: 0.9px 0.9px #007bff
 }
 
