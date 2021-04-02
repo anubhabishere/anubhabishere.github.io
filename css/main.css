@@ -590,7 +590,7 @@ strong {
 
 .intro__hello {
     font-weight: 300;
-    text-shadow: 0.6px 0.6px #007bff
+    text-shadow: 0.9px 0.9px #007bff
 }
 
 .intro__hello .wave-hand {
@@ -676,12 +676,12 @@ strong {
 .intro__tagline {
     font-weight: 300;
     max-width: 700px;
-    text-shadow: 0.6px 0.6px #007bff
+    text-shadow: 0.9px 0.9px #007bff
 }
 
 .intro__tagline .name {
     font-weight: 700;
-    text-shadow: 0.6px 0.6px #007bff
+    text-shadow: 0.9px 0.9px #007bff
 }
 
 .intro__tagline .technologist {
