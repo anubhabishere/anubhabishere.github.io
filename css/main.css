@@ -968,7 +968,6 @@ strong {
 }
 
 .featured-projects .project__caption {
-    width: 125px;
     -ms-flex-negative: 0;
     flex-shrink: 0;
     margin-left: 30px
