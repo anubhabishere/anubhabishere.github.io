@@ -968,10 +968,10 @@ strong {
 }
 
 .featured-projects .project__caption {
-    width: 700px;
+    width: 100px;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    margin-left: 30px
+    margin-left: 20px
 }
 
 @media screen and (max-width:768px) {
